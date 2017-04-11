@@ -5,4 +5,4 @@ Created on Sat Apr  1 18:25:32 2017
 @author: Karen
 """
 
-print("I like 6.001!")
+print("Hello, world! I like 6.001!")
